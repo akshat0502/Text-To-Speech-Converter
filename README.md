@@ -7,5 +7,5 @@
         <ol>
             <li><b>HTML (index.html)</b>– Provides the structure of the text input and button to trigger speech synthesis.</li>
             <li><b>CSS (style.css)</b>– Styles the input area and button, giving the app a clean and user-friendly interface.</li>
-            <li><b>JavaScript (script.js)</b>  – Uses the <strong>Web Speech built-in API</strong> to convert the entered text to voice.</li>
+            <li><b>JavaScript (script.js)</b>  – Uses the <strong>Web Speech built-in API</strong> to convert the entered <b>text to voice</b>.</li>
         </ol>
